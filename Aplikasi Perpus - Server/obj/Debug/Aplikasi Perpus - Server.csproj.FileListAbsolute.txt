@@ -1,0 +1,23 @@
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.csprojResolveAssemblyReference.cache
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Form1.resources
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Properties.Resources.resources
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.csproj.GenerateResource.Cache
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.exe.config
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.exe
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.pdb
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\MySql.Data.dll
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.exe
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.pdb
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Form_edit.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.exe.config
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.exe
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.pdb
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.exe
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\Aplikasi Perpus - Server.pdb
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\bin\Debug\MySql.Data.dll
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.csprojResolveAssemblyReference.cache
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Form1.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Form_edit.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Properties.Resources.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi Perpus - Server.csproj.GenerateResource.Cache
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Server\obj\Debug\Aplikasi_Perpus___Server.Setting.resources

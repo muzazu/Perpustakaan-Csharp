@@ -1,0 +1,13 @@
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi_Perpus___Client.Form1.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi_Perpus___Client.Properties.Resources.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi Perpus - Client.csproj.GenerateResource.Cache
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\bin\Debug\Aplikasi Perpus - Client.exe.config
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\bin\Debug\Aplikasi Perpus - Client.exe
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\bin\Debug\Aplikasi Perpus - Client.pdb
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\bin\Debug\MySql.Data.dll
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi Perpus - Client.exe
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi Perpus - Client.pdb
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi Perpus - Client.csprojResolveAssemblyReference.cache
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi_Perpus___Client.login.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi_Perpus___Client.Riwayat.resources
+Z:\belajar\c#\Aplikasi Perpus - Server\Aplikasi Perpus - Client\obj\Debug\Aplikasi_Perpus___Client.Edit.resources
